@@ -1,0 +1,11 @@
+Icones:
+
+https://fontawesome.com/v4/icons/
+
+
+HTML CheatSheet
+
+
+Grid Layout Guia:
+
+https://www.origamid.com/projetos/css-grid-layout-guia-completo/
